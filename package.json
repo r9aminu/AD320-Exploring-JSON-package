@@ -1,0 +1,31 @@
+{
+  "name": "explore-package-json",
+  "version": "1.0.0",
+  "description": "Exploring json package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r9aminu/AD320-Exploring-JSON-package.git"
+  },
+  "keywords": ["npm", "script", "json", "dependencies"],
+  "author": "Aminu Abubakar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r9aminu/AD320-Exploring-JSON-package/issues"
+  },
+  "homepage": "https://github.com/r9aminu/AD320-Exploring-JSON-package#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0"
+  },
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x"
+  }
+}
